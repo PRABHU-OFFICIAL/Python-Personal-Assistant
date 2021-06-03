@@ -139,4 +139,4 @@ if __name__=="__main__":
             speak("bye bye")
             exit()
 
-# SO OUR PROJECT JARVIS IS COMPLETE NOW SO LET'S TEST IT OHK
+# SO OUR PROJECT JARVIS IS COMPLETE NOW SO LET'S TEST IT
